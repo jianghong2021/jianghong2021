@@ -43,7 +43,8 @@
   <img src="https://img.shields.io/badge/微信小程序-07C160?style=for-the-badge&logo=wechat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Telegram%20小程序-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   <img src="https://img.shields.io/badge/Telegram%20机器人-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/H5%20PC%20网站-2CA5E0?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/H5%20PC%20网站-ff5500?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web3-ff8800?style=for-the-badge&logo=bitcoinsv&logoColor=white"/>
 </p>
 
 ### 🧩 **常用工具**
@@ -57,7 +58,7 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nodejs-00aa00?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/php-4f5b93?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/php-4f5b93?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
@@ -78,6 +79,7 @@
 | ⭐ **某Telegram小程序** | 新币发行预热，链游集成平台，火热一时，支持多链支付、交互、用户体系 |
 | 🔧 **脚本盒子** | 浏览器插件，[Edge商店](https://microsoftedge.microsoft.com/addons/detail/%E8%84%9A%E6%9C%AC%E7%9B%92%E5%AD%90%E8%84%9A%E6%9C%AC%E7%8B%97/phpfefdnepkjdihobpdegfpnghnkcdka)，自动化 + 元素增强 + 用户脚本，可视化编程等 |
 | ⚙️ **智能项目管理** | 此为 [VSCode插件](https://marketplace.visualstudio.com/items?itemName=webjiangh.smart-project-manager)，方便实用的项目管理，提升工程效率的小型扩展工具 |
+| ⚙️ **小喵喵编程助手** | 此为 [VSCode插件](https://marketplace.visualstudio.com/items?itemName=webjiangh.my-lovely-cat)，便捷，实惠的AI编程助手 |
 | 🪙 **类xpet宠物系统DEX** | 领养宠物，产生收益，涉及浏览器插件，telegram小程序 |
 
 ---

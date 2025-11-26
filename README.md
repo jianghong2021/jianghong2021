@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nodejs-00aa00?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/php-4f5b93?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/php-4f5b93?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
@@ -76,9 +76,10 @@
 
 | Project | Description |
 |------|------|
-| ⭐ **Telegram Mini App** | New token launch预热，链游集成平台，火热一时，支持多链支付、交互、用户体系 |
+| ⭐ **Telegram Mini App** | New token launch Preheating, a blockchain game integration platform, has been popular for a while, supporting multi-chain payment, interaction, and user system |
 | 🔧 **Script Box** | Browser extension, [Edge Store](https://microsoftedge.microsoft.com/addons/detail/%E8%84%9A%E6%9C%AC%E7%9B%92%E5%AD%90%E8%84%9A%E6%9C%AC%E7%8B%97/phpfefdnepkjdihobpdegfpnghnkcdka), automation + element enhancement + user scripts, visual programming, etc. |
 | ⚙️ **Smart Project Manager** | This is a [VSCode extension](https://marketplace.visualstudio.com/items?itemName=webjiangh.smart-project-manager), convenient and practical project management, a small extension tool to improve engineering efficiency. |
+| ⚙️ **Little Meow Programming Assistant** | This is a [VSCode extension](https://marketplace.visualstudio.com/items?itemName=webjiangh.my-lovely-cat), A simple and convenient AI programming assistant. |
 | 🪙 **xpet-like Pet System DEX** | Adopt pets, generate income, involves browser extensions, telegram mini programs. |
 
 ---
